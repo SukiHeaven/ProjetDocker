@@ -1,0 +1,9 @@
+CREATE TABLE utilisateur
+(
+    id INT PRIMARY KEY NOT NULL,
+    question VARCHAR(100),
+    answerID int,
+    username VARCHAR(100),
+    FOREIGN KEY (answerID) REFERENCES answer(id),
+    FOREIGN KEY (username) REFERENCES user(username)
+)
