@@ -8051,10 +8051,9 @@ a.text-dark:hover, a.text-dark:focus {
   color: rgba(255, 255, 255, 0.5) !important; }
 
 .text-hide {
-  font: 0/0 a;
   color: transparent;
   text-shadow: none;
-  background-color: transparent;
+  background-color: white;
   border: 0; }
 
 .text-decoration-none {
@@ -8223,12 +8222,12 @@ h1, h2, h3, h4, h5,
   color: rgba(255, 255, 255, 0.9); }
 
 .form-control {
-  background: white;
+  background: transparent;
   border: none;
   height: 50px;
   color: white !important;
   border: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.08);
+  background: rgba(100, 100, 100, 0.7);
   border-radius: 40px;
   padding-left: 20px;
   padding-right: 20px;
@@ -8253,7 +8252,7 @@ h1, h2, h3, h4, h5,
     /* Firefox 18- */
     color: rgba(255, 255, 255, 0.8) !important; }
   .form-control:hover, .form-control:focus {
-    background: transparent;
+    background: black ;
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
