@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ddb5273-ef32-451c-8914-efcb3fa871bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/index.html" afterDir="false" />
     </list>
@@ -33,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Suki/Documents/GitHub/ProjetDocker/Interface/login-form-20/js",
+    "last_opened_file_path": "C:/Users/Suki/Documents/GitHub/ProjetDocker/bootstrap-5.0.2-dist",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +54,7 @@
       <workItem from="1664459627007" duration="5090000" />
       <workItem from="1664467171895" duration="970000" />
       <workItem from="1664478096392" duration="1127000" />
+      <workItem from="1664482038554" duration="367000" />
     </task>
     <servers />
   </component>
