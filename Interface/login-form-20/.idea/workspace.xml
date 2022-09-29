@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ddb5273-ef32-451c-8914-efcb3fa871bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/fonts/Alice_in_Wonderland_3.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/fonts/Magic Story.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/fonts/Magician.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/fonts/MasterOfMagic-ax58g.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/fonts/VampireCalligraphy-GgoA.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/fonts/Vampirecalligraphy-jBAy.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/fonts/magic dafont.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/fonts/magic dafont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/0_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/2198ffbb-7863-4c49-9e80-7488a0265d8f_progress_image_95.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/7366a91c-451d-4a6e-9052-fd0f88a08c0b_progress_image_95.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/Suki_a_cat_looking_at_a_cristal_ball_35f39e39-0b72-4a23-9146-b2dfa8668c7f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/Suki_a_magic_eight_ball_3e866511-703a-49fe-b80e-ba914074efed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/Suki_a_magic_eight_ball_d87e395d-20b6-43ba-b374-7477d75e6f95.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/Suki_a_wizard_cat_doing_magic_2b69bf00-2f2e-49a9-a872-830a67638cb7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/Suki_a_wizard_cat_doing_magic_88da1014-6182-44be-8ef7-86f9c5e94514.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/Suki_magic_8_ball_with_a_cat_on_top_a2701676-5428-4810-8257-2b549f69c184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/Suki_magical_cat_on_a_ball_of_cristal_ab4c9875-48a8-4aeb-8272-345b90190a6d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/magic-8-hed-2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/images/magic-eight-ball.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +33,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Suki/Documents/GitHub/ProjetDocker/bootstrap-5.0.2-examples/sign-in",
+    "last_opened_file_path": "C:/Users/Suki/Documents/GitHub/ProjetDocker/Interface/login-form-20/js",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Suki\Documents\GitHub\ProjetDocker\Interface\login-form-20\js" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,6 +55,7 @@
       <updated>1664459625287</updated>
       <workItem from="1664459627007" duration="5090000" />
       <workItem from="1664467171895" duration="970000" />
+      <workItem from="1664478096392" duration="1127000" />
     </task>
     <servers />
   </component>

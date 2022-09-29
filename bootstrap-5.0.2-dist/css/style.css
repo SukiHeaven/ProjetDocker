@@ -9,7 +9,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: aqua;
+    background: transparent;
 }
 
 .login {
@@ -17,7 +17,7 @@ body{
     height: min-content;
     padding: 20px;
     border-radius: 12px;
-    background: white;
+    background: transparent;
 }
 
 .login h1 {
@@ -37,3 +37,8 @@ body{
     font-size: 20px;
     margin-top: 15px;
 }
+
+.img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; }
