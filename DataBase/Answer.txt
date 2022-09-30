@@ -33,8 +33,7 @@ VALUES
 ('C'est pas faux'),
 ('Ça peut se passer'),
 ('Ça s'annonce mal parti'),
-('Prout'),
+('Prout...'),
 ('Revenez demain'),
 ('Peut être, peut être pas'),
-('Prout'),
-('L'avenir te le dira');
+('L'avenir nous le dira');

@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ddb5273-ef32-451c-8914-efcb3fa871bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataBase/Answer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/index.html" afterDir="false" />
     </list>
@@ -13,6 +15,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -26,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Suki/Documents/GitHub/ProjetDocker/bootstrap-5.0.2-dist",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Melan/Documents/GitHub/ProjetDocker/Interface/login-form-20&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Suki\Documents\GitHub\ProjetDocker\Interface\login-form-20\js" />
@@ -55,6 +60,8 @@
       <workItem from="1664467171895" duration="970000" />
       <workItem from="1664478096392" duration="1127000" />
       <workItem from="1664482038554" duration="367000" />
+      <workItem from="1664525590150" duration="1117000" />
+      <workItem from="1664529319791" duration="8353000" />
     </task>
     <servers />
   </component>

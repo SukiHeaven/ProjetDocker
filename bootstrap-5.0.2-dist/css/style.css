@@ -11,14 +11,72 @@ body{
     justify-content: center;
     background: transparent;
 }
+body:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: '';
+    background: #000;
+    opacity: .3;
+    z-index: -1; }
 
-.login {
-    width: 360px;
-    height: min-content;
-    padding: 20px;
-    border-radius: 12px;
-    background: transparent;
+.ftco-section {
+    padding: 7em 0; }
+
+.heading-section{
+    font-family: MagicFont;
+    font-size: 70px;
+    color: #fff3cd;
 }
+
+.col-md-6{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px; }
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto; }
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px; } }
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px; } }
+@media (min-width: 992px) {
+    .container {
+        max-width: 960px; } }
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px; } }
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px; }
+
+.btn {
+    cursor: pointer;
+    border-radius: 40px;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    font-size: 15px;
+    text-transform: uppercase; }
+
+.btn.btn-primary {
+    background: #fbceb5 !important;
+    border: 1px solid #fbceb5 !important;
+    color: #000 !important; }
 
 .login h1 {
     font-size: 36px;
@@ -37,6 +95,9 @@ body{
     font-size: 20px;
     margin-top: 15px;
 }
+.form-group {
+    margin-bottom: 1rem; }
+
 .form-control {
     background: transparent;
     border: none;
@@ -49,9 +110,15 @@ body{
     padding-right: 20px;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
-    transition: 0.3s;}
+    transition: 0.3s; }
 
 .img {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center; }
+
+@font-face {
+    font-family: "MagicFont";
+    src: url('../fonts/magic dafont.ttf');
+    font-style: normal;
+}
