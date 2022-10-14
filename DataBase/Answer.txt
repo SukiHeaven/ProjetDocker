@@ -1,39 +1,41 @@
-CREATE TABLE answer {
-    id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
-    answer VARCHAR(100) NOT NULL UNIQUE
-};
-INSERT INTO answer ('answer')
+CREATE TABLE answer (
+    id  INT AUTO_INCREMENT,
+    answer VARCHAR(100) NOT NULL,
+	primary key(id),
+CONSTRAINT answer_unique UNIQUE (answer)
+);
+INSERT INTO answer (answer)
 VALUES
 ('Essaye plus tard'),
 ('Essaye encore'),
-('Pas d'avis'),
-('C'est ton destin'),
+('Pas d''avis'),
+('C''est ton destin'),
 ('Le sort en est jeté'),
 ('Une chance sur deux'),
 ('Repose ta question'),
-('D'après moi oui'),
-('C'est certain'),
+('D''après moi oui'),
+('C''est certain'),
 ('Oui absolument'),
 ('Tu peux compter dessus'),
 ('Sans aucun doute'),
 ('Très probable'),
 ('Oui'),
-('C'est bien parti'),
-('C'est non'),
+('C''est bien parti'),
+('C''est non'),
 ('Faut pas rêver '),
 ('Peu probable'),
-('N'y compte pas'),
+('N''y compte pas'),
 ('Impossible'),
 ('Pas tout de suite'),
 ('Votre question est stupide'),
-('Hmmmmmm j'ai besoin de réfléchir encore'),
+('Hmmmmmm j''ai besoin de réfléchir encore'),
 ('Les astres ne sont pas alignée pour ça'),
 ('Je dis oui!'),
 ('Bien sur'),
-('C'est pas faux'),
+('C''est pas faux'),
 ('Ça peut se passer'),
-('Ça s'annonce mal parti'),
+('Ça s''annonce mal parti'),
 ('Prout...'),
 ('Revenez demain'),
 ('Peut être, peut être pas'),
-('L'avenir nous le dira');
+('L''avenir nous le dira');

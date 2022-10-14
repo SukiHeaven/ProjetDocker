@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8ddb5273-ef32-451c-8914-efcb3fa871bf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../DataBase/Answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataBase/Answer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Question.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataBase/Question.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-examples/assets/brand/bootstrap-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-examples/sign-in/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-examples/sign-in/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Melan/Documents/GitHub/ProjetDocker/Interface/login-form-20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Suki/Documents/GitHub/ProjetDocker/Magic8Ball&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -62,6 +63,15 @@
       <workItem from="1664482038554" duration="367000" />
       <workItem from="1664525590150" duration="1117000" />
       <workItem from="1664529319791" duration="8353000" />
+      <workItem from="1665489011253" duration="6502000" />
+      <workItem from="1665574602264" duration="379000" />
+      <workItem from="1665592413125" duration="618000" />
+      <workItem from="1665594258483" duration="592000" />
+      <workItem from="1665614915845" duration="1431000" />
+      <workItem from="1665648193029" duration="6843000" />
+      <workItem from="1665657350591" duration="211000" />
+      <workItem from="1665657633804" duration="155000" />
+      <workItem from="1665660711313" duration="7995000" />
     </task>
     <servers />
   </component>
