@@ -8,16 +8,29 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-image: url("../../public/images/MagiBall.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center center; 
+}  
+
+body#index{
+  background-image: url("../../public/images/MagiBall.png");
+}
+
+body#question {
+  background-image: url("../../public/images/psychic.png");
 }  
 
 img {
   vertical-align: middle;
   border-style: none; }
 
+  .container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto; }
 
 .form-signin {
   width: 100%;
@@ -66,7 +79,30 @@ img {
 }
 
 .form-group {
-  margin-bottom: 1rem;  }
+  margin-bottom: 10px;  
+}
+
+.form-ask {
+  width: 100%;
+  max-width: 600px;
+  padding: 15px;
+  margin: auto;
+}
+
+.heading-section{    
+  font-family: MagicFont;
+  font-size: 70px;
+  color: #fff3cd;
+  white-space: nowrap;
+}
+
+@font-face {
+  font-family: "MagicFont";
+  src: url('../../public/fonts/magicdafont.ttf');
+  font-style: normal;
+}
+
+
   
   
 
