@@ -21,6 +21,18 @@ body#question {
   background-image: url("../../public/images/psychic.png");
 }  
 
+body::after{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: '';
+  background: #000;
+  opacity: .3;
+  z-index: -1; 
+}
+
 img {
   vertical-align: middle;
   border-style: none; }

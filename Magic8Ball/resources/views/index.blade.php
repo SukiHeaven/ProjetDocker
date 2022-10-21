@@ -13,7 +13,7 @@
 <main class="form-signin">
   <form>
     <img class="mb-2" src="/images/Cat_logo.png" alt="" width="150" height="150">
-    <h1 class="h2 mb-3 fw-normal heading-section">Please sign in</h1>
+    <h1 class="h1 mb-3 fw-normal heading-section">Please sign in</h1>
     <div class="form-group">
           <input type="email" class="form-input" id="floatingInput" placeholder="Username" required>
     </div>

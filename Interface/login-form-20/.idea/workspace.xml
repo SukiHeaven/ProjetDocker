@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ddb5273-ef32-451c-8914-efcb3fa871bf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../DataBase/Answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataBase/Answer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DataBase/Question.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataBase/Question.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-examples/assets/brand/bootstrap-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-examples/sign-in/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-examples/sign-in/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +67,7 @@
       <workItem from="1665657350591" duration="211000" />
       <workItem from="1665657633804" duration="155000" />
       <workItem from="1665660711313" duration="7995000" />
+      <workItem from="1666283617166" duration="398000" />
     </task>
     <servers />
   </component>
