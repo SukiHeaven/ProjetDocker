@@ -18,7 +18,7 @@ body#index{
 }
 
 body#question {
-  background-image: url("../../public/images/psychic.png");
+  background-image: url("../../public/images/centerblack.png");
 }  
 
 body::after{
