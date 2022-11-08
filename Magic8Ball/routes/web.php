@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AnswerController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -14,9 +16,16 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('auth.index');
 });
 
+<<<<<<< Updated upstream
 Auth::routes();
+=======
+Route::get('/question',[AnswerController::class, 'index']);
+
+//Auth::routes();
+>>>>>>> Stashed changes
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+

@@ -6,11 +6,27 @@
   <component name="ChangeListManager">
     <list default="true" id="8ddb5273-ef32-451c-8914-efcb3fa871bf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../DataBase/Answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataBase/Answer.txt" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/../../DataBase/Question.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataBase/Question.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-examples/assets/brand/bootstrap-logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bootstrap-5.0.2-examples/sign-in/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bootstrap-5.0.2-examples/sign-in/index.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/app/Http/Controllers/AnswerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Magic8Ball/app/Http/Controllers/AnswerController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/app/Models/Answer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Magic8Ball/app/Models/Answer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Magic8Ball/resources/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/resources/views/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/resources/views/question.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Magic8Ball/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Magic8Ball/routes/web.php" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Suki/Documents/GitHub/ProjetDocker/Magic8Ball&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Suki/Documents/GitHub/ProjetDocker/Magic8Ball",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Suki\Documents\GitHub\ProjetDocker\Interface\login-form-20\js" />
@@ -72,6 +89,11 @@
       <workItem from="1665657350591" duration="211000" />
       <workItem from="1665657633804" duration="155000" />
       <workItem from="1665660711313" duration="7995000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1666283617166" duration="398000" />
+      <workItem from="1667899155264" duration="477000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>

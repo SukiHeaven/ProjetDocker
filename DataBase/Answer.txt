@@ -4,7 +4,7 @@ CREATE TABLE answer (
 	primary key(id),
 CONSTRAINT answer_unique UNIQUE (answer)
 );
-INSERT INTO answer (answer)
+INSERT INTO answers (answer)
 VALUES
 ('Essaye plus tard'),
 ('Essaye encore'),
