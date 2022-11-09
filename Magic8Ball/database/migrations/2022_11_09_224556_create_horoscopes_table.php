@@ -13,15 +13,13 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('questions', function (Blueprint $table) {
+        Schema::create('horoscopes', function (Blueprint $table) {
             $table->id();
-            $table->string('question');
-            $table->unsignedBigInteger('answer_id');
-            $table->unsignedBigInteger('user_id');        
+            $table->string('title')->unique();
+            $table->string('text');
+            $table->string('rating');
             $table->timestamps();
-            $table->foreign('user_id')->references('id')->on('users');
-            $table->foreign('answer_id')->references('id')->on('answers');
-        });
+        });s
     }
 
     /**
@@ -31,6 +29,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('questions');
+        Schema::dropIfExists('horoscopes');
     }
 };
