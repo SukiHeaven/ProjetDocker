@@ -8,12 +8,12 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     
   </head>
-  <body class="js-fullheight text-center">
+  <body id="index" class="js-fullheight text-center">
     
 <main class="form-signin">
   <form>
     <img class="mb-2" src="/images/Cat_logo.png" alt="" width="150" height="150">
-    <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
+    <h1 class="h1 mb-3 fw-normal heading-section">Please sign in</h1>
     <div class="form-group">
           <input type="email" class="form-input" id="floatingInput" placeholder="Username" required>
     </div>
