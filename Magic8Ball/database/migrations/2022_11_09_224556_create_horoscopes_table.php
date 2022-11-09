@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('text');
             $table->string('rating');
             $table->timestamps();
-        });s
+        });
     }
 
     /**
